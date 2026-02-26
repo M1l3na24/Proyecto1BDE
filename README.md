@@ -1,7 +1,9 @@
 # Proyecto1BDE
-Implementación BD OLTP
+BD OLTP Implementation
 
-Equipo:
+We developed a transactional database that followed the business rules of a company that offered SPA services.
+
+Team:
 
 Angel Noel Pérez Martínez
 Ignacio Chuquiure Gil
