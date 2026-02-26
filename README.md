@@ -6,5 +6,7 @@ We developed a transactional database that followed the business rules of a comp
 Team:
 
 Angel Noel Pérez Martínez
+
 Ignacio Chuquiure Gil
+
 Milena Fernanda Rivera Hernández
